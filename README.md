@@ -1,3 +1,17 @@
+---
+
+## 來源與授權
+
+本專案改編自 Karovia 的 fullstack-ai-agent-roadmap。
+
+本版本已翻譯並調整為臺灣繁體中文。
+
+原始專案：
+https://github.com/Karovia/fullstack-ai-agent-roadmap
+
+本專案採用 CC BY-SA 4.0 授權：
+https://creativecommons.org/licenses/by-sa/4.0/
+
 # my-fullstack-journey
 我的全端開發與 AI Agent 學習紀錄
 # 我的全端學習旅程
