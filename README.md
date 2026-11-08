@@ -57,3 +57,4 @@ https://creativecommons.org/licenses/by-sa/4.0/
 | 2026-09-11 | 建立學習儲存庫 | 已完成|
 | 2026-09-11 | 確認 Python、Node.js、Git 開發環境 | 已完成 |
 | 2026-09-12 | 使用 GitHub CLI 完成第一次 Pull Request | 已完成 |
+| 2026-10-22 | 完成 Python 語法基礎：變數、資料型別、條件判斷、迴圈，以及 BMI 計算器、猜數字遊戲與九九乘法表 | 已完成 |
